@@ -13,7 +13,7 @@ const Success = () => {
     setCartItems([]);
     setTotalPrice(0);
     setTotalQuantities(0);
-    runFireworks();
+   // runFireworks();
   }, []);
 
   return (
@@ -26,7 +26,7 @@ const Success = () => {
         <p className="email-msg">Check your email inbox for the receipt.</p>
         <p className="description">
           If you have any questions, please email
-          <a className="email" href="mailto:order@example.com">
+          <a className="email" href="mailto:ergncyln@gmail.com">
             order@example.com
           </a>
         </p>
